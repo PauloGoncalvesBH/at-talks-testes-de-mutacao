@@ -10,7 +10,6 @@
 
 - [💻 Slides](.github/AT%20Talks%20-%20Testes%20de%20mutação.pdf)
 - [📹 Vídeo](https://www.youtube.com/watch?v=TIiVYhoEB8o)
-- [Código utilizado, texto base da apresentação e referências]()
 
 ## Ferramentas
 
@@ -33,3 +32,4 @@
 - [Why code coverage is not a reliable metric](https://dev.to/conectionist/why-code-coverage-is-not-a-reliable-metric-327l)
 - [Mutation testing in 1000 characters](https://dev.to/schreiber_chris/mutation-testing-in-1000-characters-193a)
 - [Why Google Stores Billions of Lines of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)
+- [Documentação do Stryker](https://www.npmjs.com/package/@stryker-mutator/core)
